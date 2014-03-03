@@ -1,7 +1,7 @@
 Recorderjs For Mp3
 ==========
 
-A modified version of Recorderjs that saves recordings in mp3 format
+A modified version of Recorderjs that saves recordings in mp3 format using libmp3lame.js
 
 
 License (MIT)
